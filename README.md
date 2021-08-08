@@ -6,7 +6,7 @@
 
 - ✨ My first program: [Track](https://github.com/NhanAZ/Track)
 - 🏢 I am studying and working as well as living in **Vietnam**
-- ⚙️ The language I'm learning: `.php`, `.html`, `.css`, `.cpp`
+- ⚙️ The language I'm learning: `PHP`, `HTML`, `CSS`, `C++`, `C`
 - 🌍 I'm mostly active within the **PocketMine-MP**
 - 🌱 I'm still learning some new **programming languages**
 - 📫 Reach me: Discord: Nguyễn Thành Nhân#9115
