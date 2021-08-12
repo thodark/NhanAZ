@@ -9,7 +9,7 @@
 - ⚙️ The language I'm learning: `PHP`, `HTML`, `CSS`, `C++`, `C`.
 - 🌍 I'm mostly active within the **PocketMine-MP**
 - 🌱 I'm still learning some new **programming languages**
-- 📫 Reach me: Discord: Nguyễn Thành Nhân#9115
+- 📫 Reach me: Discord: NhanAZ#9115
 - ⚡️ Fun fact: I'm a big fan of Japanese cartoons.
 - 🍑 Huh! What should I write in this line?
 
